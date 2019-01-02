@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LP_1              3002
+//	LP_2              3006
+//	LP_3              300F
+//	NUM               3017
+//	DONE              301C
+//	Val               301D
+//	ASCII_A           301E
+//	ASCII_0           301F
+

@@ -1,0 +1,3 @@
+Write a short introduction about yourself (program of study, what ECE courses have you taken so far, what makes you interested in CompE/EE, etc.)
+
+I am Young Bin Jo currently studying computer engineering. Currently I finished ece 110, 120. This semester I am taking both ece210 and ece220. I am very interested in software security which led me to computer choose engineering as my major.
